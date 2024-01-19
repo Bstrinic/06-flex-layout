@@ -52,3 +52,7 @@ input {
   justify-content: space-between;
   padding: 16px;
 }
+
+.footer {
+  background-color: white;
+}
