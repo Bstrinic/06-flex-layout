@@ -31,3 +31,17 @@ input {
 .button {
   padding: 8px 16px;
 }
+
+.content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.a {
+  color: grey;
+  text-decoration: none;
+}
